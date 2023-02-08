@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir my_first_directory
+M-x make-directory RET my_first_directory RET
